@@ -2,7 +2,7 @@
   "name": "node-db3-project",
   "version": "1.0.0",
   "scripts": {
-    "save": "git add . && git commit -m 'wip' && git push -u origin secoya-woods",
+    "save": "git add . && git commit -m 'wip' && git push -u origin secoya-wood",
     "server": "nodemon index.js",
     "migrate": "knex migrate:latest",
     "rollback": "knex migrate:rollback",
